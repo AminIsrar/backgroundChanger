@@ -1,0 +1,23 @@
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid gray 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#white{
+ background-color: white;
+}
+#aqua{
+ background-color: aqua;
+}
+#violet{
+ background-color: violet;
+}
+#black{
+    background-color: black;
+}
+#color-switcher{
+    text-align: right;
+}
